@@ -1,0 +1,6 @@
+mario 31
+lucia 28
+gianni 22
+marcello 15
+isotta 40
+ariel 21

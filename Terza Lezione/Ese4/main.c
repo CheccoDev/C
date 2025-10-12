@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(int argc, char *argv[])
+{
+   int x,i; 
+  do
+  {
+             printf("Anno: ");
+             scanf("%d",&x);
+  }
+  while (!(x>1950));
+  for (i=1900;i<=x;i++)
+  {
+      printf("%d ",i);
+  }
+  return 0;
+}
